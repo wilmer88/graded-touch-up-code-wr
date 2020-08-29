@@ -7,3 +7,4 @@ changes made on refactor:
 added all semantic tags
 added all `alt` atributes
 all
+![screenshot](./assets/images/Screenshot.png)
