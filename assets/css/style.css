@@ -20,9 +20,9 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/*color change from light gray to 89f055*/
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #89f055;
 }
 
 .header div {
@@ -87,6 +87,7 @@ p {
     background-color: #2589bd;
 }
 
+/*these 3 benfit classes need to be joind together without breaking the page*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,7 +102,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*h3 classed may be joined*/
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -134,7 +135,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* next three classes are the same and could be turned to one single class*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
