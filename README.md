@@ -1,9 +1,11 @@
 Horiseon refactor   8/28/2020
 
  title: Heriseon info website
+In the line below are all the refactor changes made to the 'harsiseon info website' for any questions you can find my info on the social link in the heriseon page.
+
+
 
 changes made to code on refactor:
-
 
  `div` tags were change to a `nav` tags for all links from `Heriseon info  website` for semantic pourposes
 lines:29,37,44
@@ -26,4 +28,4 @@ css backgroudnd color change for best contrast
 
 ![screenshot](./assets/images/Screenshot44.png)
 
-![website]("https://wwww.github.com/")
+![website]("https://wwww..com/")
