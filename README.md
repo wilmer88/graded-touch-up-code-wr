@@ -28,4 +28,4 @@ css backgroudnd color change for best contrast
 
 ![screenshot](./assets/images/Screenshot44.png)
 
-![link](https://wilmer88.github.io/graded-touch-up-code-wr/)
+[this is the link to the page](https://wilmer88.github.io/graded-touch-up-code-wr/)
